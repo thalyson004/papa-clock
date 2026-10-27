@@ -2,3 +2,24 @@ bin/
 *.user
 *.tmp
 artifacts/
+
+# Instruções, configurações e materiais locais de agentes
+AGENTS.md
+AGENTS.local.md
+CLAUDE.md
+CLAUDE.local.md
+GEMINI.md
+GEMINI.local.md
+.cursorrules
+.windsurfrules
+.codex/
+.claude/
+.cursor/
+.gemini/
+.agent/
+.agents/
+.windsurf/
+.github/copilot-instructions.md
+.github/agents/
+.github/instructions/
+.github/prompts/
